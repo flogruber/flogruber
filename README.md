@@ -1,10 +1,11 @@
 Hi 👋 My name is Flo Gruber
 ===========================
 
-Software Engineer & Fire Department Chief
+Co-Founder & Fire Department Chief
 -----------------------------------------
 
 * 🌍  I'm based in Austria
+* 🚀  I'm currently working on [AGF Vector GmbH](http://agf.vc)
 
 ### Skills
 
